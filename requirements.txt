@@ -19,4 +19,4 @@ WTForms==3.2.1
 bleach
 dotenv
 gunicorn==21.2.0
-psycopg2-binary==2.9.9
+psycopg2-binary>=2.9.9
